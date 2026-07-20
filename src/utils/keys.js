@@ -1,0 +1,12 @@
+export const validKeys = [
+  'THAILE-SGGS',
+  'THAILE-ABCD',
+  'THAILE-EFGH',
+  'THAILE-IJKL',
+  'THAILE-MNOP',
+  'THAILE-QRST',
+  'THAILE-UVWX',
+  'THAILE-YZAB',
+  'THAILE-CDEF',
+  'THAILE-GHIJ'
+];
